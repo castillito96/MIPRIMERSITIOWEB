@@ -1,0 +1,12 @@
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll.config
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.pdb
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.dll
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.pdb
+C:\Users\ADRIAN\Desktop\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll.config
+C:\Users\ADRIAN\Desktop\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll
+C:\Users\ADRIAN\Desktop\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.pdb
+C:\Users\ADRIAN\Desktop\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\ADRIAN\Desktop\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.dll
+C:\Users\ADRIAN\Desktop\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.pdb
